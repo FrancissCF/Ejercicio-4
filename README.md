@@ -14,7 +14,8 @@ En esta película podemos ver muchos actores, pero los que resaltan más son:
 ```
 Esta película empieza en EEUU donde se nos enseña que es de Rocky después de **Rocky III** (precuela) donde derrotó a **Clubberlang** por el título de los pesos pesados.
 Empezamos en la casa de Rocky donde se está celebrando el cumpleaños de Paulie, y al día siguiente vemos a Apollo en su piscina viendo que un boxeador ruso acaba de retar a los Estado Unidenses a boxear, entre ellos Rocky, vemos que se enfada y posteriormente llama a Rocky para comentarle que quiere pelear con el, Rocky se le ve un poco dudoso, pero al final acepta y estará en su esquina.
-El combate se celebró en el [*MGM Grand Hotel & Casino de Las Vegas*](https://mgmgrand.mgmresorts.com/en.html) ![Hotel](https://upload.wikimedia.org/wikipedia/commons/d/da/LasVegas-MGMgrand.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
+El combate se celebró en el [*MGM Grand Hotel & Casino de Las Vegas*](https://mgmgrand.mgmresorts.com/en.html) 
+![Hotel](https://upload.wikimedia.org/wikipedia/commons/d/da/LasVegas-MGMgrand.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
 En este trágico combate podemos ver como Apollo Creed a parte de salir derrotado, también muere haciendo lo que mejor sabía hacer, boxear, muere por los golpes de Ivan Drago, cada golpe era devastador, pero Rocky no lo puede dejar así y se pacta un combate para el dia de navidad en Rusia entre Rocky e Ivan Drago.
 
 Adrian duda de si rocky puede vencerle, y ya no eso, si no que duda de si puede salir ileso de allí, Rocky la entiende, pero el necesita pelear, por el y por su mejor amigo, entonces coge un vuelo para Rusia para entrenarse antes de la pelea allí. Le acompañan Paulie y Duke al principio ya que luego veremos que Adrian va también, alli tienen a gente vigilando a los Estado Unidenses todo el día, igualmente Rocky entrena todos días. ![rocky](https://i.redd.it/n6t2l3opr9ff1.jpg)
