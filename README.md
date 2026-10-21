@@ -3,7 +3,7 @@
 Rocky IV es la 4º entrega de la saga de películas de Rocky, interpretado y escrita por Sylvester Stallone, y en mi opinión es la mejor película de toda la saga.
 
 En esta película podemos ver muchos actores, pero los que resaltan más son:
-
+```
 - Sylvester Stallone (Rocky Balboa)
 - Dolph Lundgren (Ivan Drago)
 - Carl Weathers (Apollo Creed)
@@ -11,7 +11,7 @@ En esta película podemos ver muchos actores, pero los que resaltan más son:
 - Talia Shire (Adrian)
 - Burt Young (Paulie)
 - Tony Burton (Tony "Duke")
-
+```
 Esta película empieza en EEUU donde se nos enseña que es de Rocky después de **Rocky III** (precuela) donde derrotó a **Clubberlang** por el título de los pesos pesados.
 Empezamos en la casa de Rocky donde se está celebrando el cumpleaños de Paulie, y al día siguiente vemos a Apollo en su piscina viendo que un boxeador ruso acaba de retar a los Estado Unidenses a boxear, entre ellos Rocky, vemos que se enfada y posteriormente llama a Rocky para comentarle que quiere pelear con el, Rocky se le ve un poco dudoso, pero al final acepta y estará en su esquina.
 El combate se celebró en el [*MGM Grand Hotel & Casino de Las Vegas*](https://mgmgrand.mgmresorts.com/en.html) ![Hotel](https://upload.wikimedia.org/wikipedia/commons/d/da/LasVegas-MGMgrand.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
