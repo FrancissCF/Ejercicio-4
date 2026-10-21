@@ -1,5 +1,5 @@
 ## Rocky IV
-
+### Información
 Rocky IV es la 4º entrega de la saga de películas de Rocky, estrenada en cines en EEUU el 27 de noviembre de 1985 y en España el 7 de marzo de 1986, dirigida y escrita por Sylvester Stallone, y en mi opinión es la mejor película de toda la saga, con un presupuesto de 30M$ aproximadamente, teniendo una recaudación de más de 300M$, siendo la película más taquillera de toda la saga.
 
 En esta película podemos ver muchos actores, pero los que resaltan más son:
@@ -13,9 +13,10 @@ En esta película podemos ver muchos actores, pero los que resaltan más son:
 - Tony Burton (Tony "Duke")
 
 ```
-Esta película empieza en EEUU donde se nos enseña que es de Rocky después de **Rocky III** (precuela) donde derrotó a **Clubberlang** por el título de los pesos pesados.
+### Trama
+Esta película empieza en EEUU donde se nos enseña que es de Rocky después de **Rocky III** *(precuela)* donde derrotó a **Clubberlang** por el título de los pesos pesados.
 Empezamos en la casa de Rocky donde se está celebrando el cumpleaños de Paulie, y al día siguiente vemos a Apollo en su piscina viendo que un boxeador ruso acaba de retar a los Estado Unidenses a boxear, entre ellos Rocky, vemos que se enfada y posteriormente llama a Rocky para comentarle que quiere pelear con el, Rocky se le ve un poco dudoso, pero al final acepta y estará en su esquina.
-El combate se celebró en el [*MGM Grand Hotel & Casino de Las Vegas*](https://mgmgrand.mgmresorts.com/en.html) 
+El combate se celebró en el [***MGM Grand Hotel & Casino de Las Vegas***](https://mgmgrand.mgmresorts.com/en.html) 
 
 ![Hotel](https://upload.wikimedia.org/wikipedia/commons/d/da/LasVegas-MGMgrand.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
 
@@ -47,9 +48,11 @@ Para terminar Rocky coge el micrófono y da una charla motivacional diciendo que
 
 ![Foto](https://cdn1.faroutmagazine.co.uk/uploads/1/2021/10/Rocky-IV-reissued-with-directors-cut-Rocky-vs.-Drago.jpg)
 
+### Opinión Personal
 En mi opinión es la mejor película de la saga, y para mucha gente también, por la historia que tiene y como se desarrolla, por como Rocky quiere vengarse de Apollo que fue su amigo y mentor en una parte.
 
-| --- | Valoración | 
+#### Reseñas
+| Plataformas | Valoración | 
 | --- | --- |
 | IMBD | 5,9/10 |
 | PrimeVideo | 6,9/10 |
