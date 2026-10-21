@@ -1,9 +1,11 @@
 ## Rocky IV
+```
 ### Información
+
 Rocky IV es la 4º entrega de la saga de películas de Rocky, estrenada en cines en EEUU el 27 de noviembre de 1985 y en España el 7 de marzo de 1986, dirigida y escrita por Sylvester Stallone, y en mi opinión es la mejor película de toda la saga, con un presupuesto de 30M$ aproximadamente, teniendo una recaudación de más de 300M$, siendo la película más taquillera de toda la saga.
 
-En esta película podemos ver muchos actores, pero los que resaltan más son:
 ```
+En esta película podemos ver muchos actores, pero los que resaltan más son:
 - Sylvester Stallone (Rocky Balboa)
 - Dolph Lundgren (Ivan Drago)
 - Carl Weathers (Apollo Creed)
@@ -12,7 +14,6 @@ En esta película podemos ver muchos actores, pero los que resaltan más son:
 - Burt Young (Paulie)
 - Tony Burton (Tony "Duke")
 
-```
 ### Trama
 Esta película empieza en EEUU donde se nos enseña que es de Rocky después de **Rocky III** *(precuela)* donde derrotó a **Clubberlang** por el título de los pesos pesados.
 Empezamos en la casa de Rocky donde se está celebrando el cumpleaños de Paulie, y al día siguiente vemos a Apollo en su piscina viendo que un boxeador ruso acaba de retar a los Estado Unidenses a boxear, entre ellos Rocky, vemos que se enfada y posteriormente llama a Rocky para comentarle que quiere pelear con el, Rocky se le ve un poco dudoso, pero al final acepta y estará en su esquina.
@@ -34,7 +35,7 @@ Y llegamos al dia de la pelea, y como se esperaba, al estar en Rusia, y en mitad
 
 ![Pelea](https://i.blogs.es/8cf942/rocky4/1200_900.jpg)
 
-Es un combate muy frenético, donde vemos un dominio absoluto del Ruso, aunque hay un momento del 2º round donde vemos como Rocky conecta en la cabeza de Ivan Drago y le abre el pómulo, parece que empiza a coger ritmo, aunque los siguientes rounds serían para Ivan Drago, Rocky no cae y sigue en pie, esto hace que los Rusos empiezen a animar a Rocky, lo que le ayuda y gana los primeros rounds para el. 
+Es un combate muy frenético, donde vemos un dominio absoluto del Ruso, aunque hay un momento del 2º round donde vemos como Rocky conecta en la cabeza de Ivan Drago y le abre el pómulo, parece que empieza a coger ritmo, aunque los siguientes rounds serían para Ivan Drago, Rocky no cae y sigue en pie, esto hace que los Rusos empiezen a animar a Rocky, lo que le ayuda y gana los primeros rounds para el. 
 
 ![pelea](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx83FIUjphCrHoBFeq7ZCkPc6dtc4eOPRzJ7tlmozjK0gqnmkCR1Q2Rzo&s=10)
 
@@ -51,10 +52,10 @@ Para terminar Rocky coge el micrófono y da una charla motivacional diciendo que
 ### Opinión Personal
 En mi opinión es la mejor película de la saga, y para mucha gente también, por la historia que tiene y como se desarrolla, por como Rocky quiere vengarse de Apollo que fue su amigo y mentor en una parte.
 
-#### Reseñas
-| Plataformas | Valoración | 
-| --- | --- |
-| IMBD | 5,9/10 |
-| PrimeVideo | 6,9/10 |
-| Filmaffinity | 6,9/10 |
-| SensaCine | 4,1/5 |
+#### Reseñas y disponibilidad
+| Plataformas | Valoración | Disponible |
+| --- | --- | --- | 
+| IMBD | 5,9/10 | No |
+| PrimeVideo | 6,9/10 | Si |
+| Filmaffinity | 6,9/10 | No |
+| SensaCine | 4,1/5 | No |
