@@ -20,7 +20,9 @@ El combate se celebró en el [*MGM Grand Hotel & Casino de Las Vegas*](https://m
 
 En este trágico combate podemos ver como Apollo Creed a parte de salir derrotado, también muere haciendo lo que mejor sabía hacer, boxear, muere por los golpes de Ivan Drago, cada golpe era devastador, pero Rocky no lo puede dejar así y se pacta un combate para el dia de navidad en Rusia entre Rocky e Ivan Drago.
 
-Adrian duda de si rocky puede vencerle, y ya no eso, si no que duda de si puede salir ileso de allí, Rocky la entiende, pero el necesita pelear, por el y por su mejor amigo, entonces coge un vuelo para Rusia para entrenarse antes de la pelea allí. Le acompañan Paulie y Duke al principio ya que luego veremos que Adrian va también, alli tienen a gente vigilando a los Estado Unidenses todo el día, igualmente Rocky entrena todos días. ![rocky](https://i.redd.it/n6t2l3opr9ff1.jpg)
+Adrian duda de si rocky puede vencerle, y ya no eso, si no que duda de si puede salir ileso de allí, Rocky la entiende, pero el necesita pelear, por el y por su mejor amigo, entonces coge un vuelo para Rusia para entrenarse antes de la pelea allí. Le acompañan Paulie y Duke al principio ya que luego veremos que Adrian va también, alli tienen a gente vigilando a los Estado Unidenses todo el día, igualmente Rocky entrena todos días. 
+
+![rocky](https://i.redd.it/n6t2l3opr9ff1.jpg)
 
 Y veremos como es que Ivan Drago tiene tanta fuerza, y es que se pincha esteroides, así podemos saber como es que mató a Apollo, aunque esto solo aparece en escenas de la película y Rocky no se enteraría. 
 
