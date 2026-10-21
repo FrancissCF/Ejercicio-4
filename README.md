@@ -50,6 +50,7 @@ Para terminar Rocky coge el micrófono y da una charla motivacional diciendo que
 En mi opinión es la mejor película de la saga, y para mucha gente también, por la historia que tiene y como se desarrolla, por como Rocky quiere vengarse de Apollo que fue su amigo y mentor en una parte.
 
 | --- | Valoración | 
+| --- | --- |
 | IMBD | 5,9/10 |
 | PrimeVideo | 6,9/10 |
 | Filmaffinity | 6,9/10 |
