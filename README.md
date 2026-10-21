@@ -1,10 +1,9 @@
 ## Rocky IV
-```
+
 ### Información
 
 Rocky IV es la 4º entrega de la saga de películas de Rocky, estrenada en cines en EEUU el 27 de noviembre de 1985 y en España el 7 de marzo de 1986, dirigida y escrita por Sylvester Stallone, y en mi opinión es la mejor película de toda la saga, con un presupuesto de 30M$ aproximadamente, teniendo una recaudación de más de 300M$, siendo la película más taquillera de toda la saga.
 
-```
 En esta película podemos ver muchos actores, pero los que resaltan más son:
 - Sylvester Stallone (Rocky Balboa)
 - Dolph Lundgren (Ivan Drago)
@@ -50,8 +49,12 @@ Para terminar Rocky coge el micrófono y da una charla motivacional diciendo que
 ![Foto](https://cdn1.faroutmagazine.co.uk/uploads/1/2021/10/Rocky-IV-reissued-with-directors-cut-Rocky-vs.-Drago.jpg)
 
 ### Opinión Personal
-En mi opinión es la mejor película de la saga, y para mucha gente también, por la historia que tiene y como se desarrolla, por como Rocky quiere vengarse de Apollo que fue su amigo y mentor en una parte.
-
+```
+En mi opinión es la mejor película de la saga, 
+y para mucha gente también, 
+por la historia que tiene y como se desarrolla, 
+por como Rocky quiere vengarse de Apollo que fue su amigo y mentor en una parte.
+```
 #### Reseñas y disponibilidad
 | Plataformas | Valoración | Disponible |
 | --- | --- | --- | 
